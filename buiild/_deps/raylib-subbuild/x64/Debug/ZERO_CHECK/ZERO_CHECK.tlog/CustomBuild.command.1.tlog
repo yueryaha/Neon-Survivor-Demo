@@ -1,0 +1,10 @@
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\0F5C93CA8C99EDDF6F5A42197286C065\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild -BD:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

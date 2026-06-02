@@ -1,0 +1,152 @@
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-MKDIR.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -Dcfgdir=/Debug -P D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/tmp/raylib-populate-mkdirs.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-mkdir
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-DOWNLOAD.RULE
+setlocal
+cd D:\StudyMaterial\SEU\自学资料\Trae_project\game_demo\buiild\_deps
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/download-raylib-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/verify-raylib-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE -P D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/extract-raylib-populate.cmake
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-download
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-UPDATE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-update
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-PATCH.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-patch
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-CONFIGURE.RULE
+setlocal
+cd D:\StudyMaterial\SEU\自学资料\Trae_project\game_demo\buiild\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-configure
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-BUILD.RULE
+setlocal
+cd D:\StudyMaterial\SEU\自学资料\Trae_project\game_demo\buiild\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-build
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-INSTALL.RULE
+setlocal
+cd D:\StudyMaterial\SEU\自学资料\Trae_project\game_demo\buiild\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-install
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\7E2ADCB9A6FA123CEA7EFBA549E2DCBB\RAYLIB-POPULATE-TEST.RULE
+setlocal
+cd D:\StudyMaterial\SEU\自学资料\Trae_project\game_demo\buiild\_deps\raylib-build
+if %errorlevel% neq 0 goto :cmEnd
+D:
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E echo_append
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-test
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\AB1600B4FB37BE083FE03678C5042715\RAYLIB-POPULATE-COMPLETE.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/Debug
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/Debug/raylib-populate-complete
+if %errorlevel% neq 0 goto :cmEnd
+"C:\Program Files\CMake\bin\cmake.exe" -E touch D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/Debug/raylib-populate-done
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\0F5C93CA8C99EDDF6F5A42197286C065\RAYLIB-POPULATE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\STUDYMATERIAL\SEU\自学资料\TRAE_PROJECT\GAME_DEMO\BUIILD\_DEPS\RAYLIB-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild -BD:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild --check-stamp-file D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

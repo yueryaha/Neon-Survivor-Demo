@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/0f5c93ca8c99eddf6f5a42197286c065/raylib-populate.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/ab1600b4fb37be083fe03678c5042715/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-build.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-download.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-install.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-test.rule"
+		},
+		{
+			"file" : "D:/StudyMaterial/SEU/\u81ea\u5b66\u8d44\u6599/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

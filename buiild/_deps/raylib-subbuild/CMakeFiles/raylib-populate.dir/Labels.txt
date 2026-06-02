@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/0f5c93ca8c99eddf6f5a42197286c065/raylib-populate.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/ab1600b4fb37be083fe03678c5042715/raylib-populate-complete.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-build.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-configure.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-download.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-install.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-mkdir.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-patch.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-test.rule
+D:/StudyMaterial/SEU/自学资料/Trae_project/game_demo/buiild/_deps/raylib-subbuild/CMakeFiles/7e2adcb9a6fa123cea7efba549e2dcbb/raylib-populate-update.rule
